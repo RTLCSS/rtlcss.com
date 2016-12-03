@@ -1,0 +1,1 @@
+self.MonacoEnvironment={baseUrl:"https://cdn.rtlcss.com/assets/monaco-editor/min/"},importScripts("https://cdn.rtlcss.com/assets/monaco-editor/min/vs/base/worker/workerMain.js");
